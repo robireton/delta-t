@@ -1,0 +1,25 @@
+{
+  "name": "@robireton/delta-t",
+  "version": "1.0.0",
+  "description": "ES6 module to compute estimates of ΔT — the difference between local/civil time and uniform/dynamical time",
+  "main": "delta-t.mjs",
+  "scripts": {
+    "test": "node --experimental-modules tests.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robireton/delta-t.git"
+  },
+  "keywords": [
+    "es6",
+    "astronomy",
+    "meeus",
+    "time"
+  ],
+  "author": "Rob Ireton <rob@ireton.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robireton/delta-t/issues"
+  },
+  "homepage": "https://github.com/robireton/delta-t#readme"
+}
