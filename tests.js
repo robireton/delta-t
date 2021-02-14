@@ -1,5 +1,5 @@
 import assert from 'assert'
-import computeΔT from './delta-t'
+import computeΔT from './delta-t.js'
 
 // are the polynomials producing the expected estimates?
 for (const test of [
